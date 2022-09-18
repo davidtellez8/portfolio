@@ -8541,6 +8541,9 @@ h1, h2, h3, h4, h5,
   }
 }
 
+.email-footer {
+  margin-top: 1em;
+}
 .email-footer .icon {
   width: 40px;
   font-size: 18px;
