@@ -8533,3 +8533,25 @@ h1, h2, h3, h4, h5,
   color: #29dae3;
   font-size: 30px; 
 }
+
+@media (max-width: 767.98px) {
+  .contact-section .box .icon {
+    width: 62px;
+    height: 62px;
+  }
+}
+
+.email-footer .icon {
+  width: 40px;
+  font-size: 18px;
+  padding-top: 2px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.email-footer .text {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.ftco-footer {
+  padding-bottom: 6em;;
+}
